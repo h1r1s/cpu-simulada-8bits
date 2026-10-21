@@ -25,4 +25,4 @@ if __name__ == "__main__":
     executar_e_exibir("PROGRAMA DE EXEMPLO (5 + 8)", carregar_programa_exemplo)
     
     # 2. Executa o programa próprio do grupo (mínimo 8 instruções)
-    executar_e_exibir("PROGRAMA DO GRUPO (EXPRESSÃO)", carregar_programa_grupo)
+    executar_e_exibir("PROGRAMA EXPRESSÃO (10 + 5) - (2 AND 3)", carregar_programa_grupo)
